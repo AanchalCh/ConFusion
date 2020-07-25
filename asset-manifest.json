@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ConFusion/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/ConFusion/static/js/main.ff7efaf7.chunk.js",
-    "main.js.map": "/ConFusion/static/js/main.ff7efaf7.chunk.js.map",
+    "main.js": "/ConFusion/static/js/main.ac91174f.chunk.js",
+    "main.js.map": "/ConFusion/static/js/main.ac91174f.chunk.js.map",
     "runtime-main.js": "/ConFusion/static/js/runtime-main.c05b6654.js",
     "runtime-main.js.map": "/ConFusion/static/js/runtime-main.c05b6654.js.map",
     "static/css/2.af3c1da9.chunk.css": "/ConFusion/static/css/2.af3c1da9.chunk.css",
     "static/js/2.024653fc.chunk.js": "/ConFusion/static/js/2.024653fc.chunk.js",
     "static/js/2.024653fc.chunk.js.map": "/ConFusion/static/js/2.024653fc.chunk.js.map",
     "index.html": "/ConFusion/index.html",
-    "precache-manifest.a15feef4ba8e6a0714abbfd4d632513f.js": "/ConFusion/precache-manifest.a15feef4ba8e6a0714abbfd4d632513f.js",
+    "precache-manifest.7ec814e8d0b71deb8dc7d5b902939d1a.js": "/ConFusion/precache-manifest.7ec814e8d0b71deb8dc7d5b902939d1a.js",
     "service-worker.js": "/ConFusion/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/ConFusion/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.27fd15f6.chunk.css.map": "/ConFusion/static/css/main.27fd15f6.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.024653fc.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.ff7efaf7.chunk.js"
+    "static/js/main.ac91174f.chunk.js"
   ]
 }
